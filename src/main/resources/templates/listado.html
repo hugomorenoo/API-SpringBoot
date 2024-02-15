@@ -21,7 +21,7 @@
             <tr th:each="alumno : ${clase.alumnos}">
                 <td th:text="${alumno.nombre}"></td>
                 <td th:text="${alumno.edad}"></td>
-                <td th:text="${alumno.nota_final}"></td>
+                <td th:text="${alumno.notaFinal}"></td>
                 <!--<td id="imagen"><img th:src="@{img/{img} (img=${alumno.imagen})}"></td>-->
                 <td id="blob"><img th:src="@{'/api/' + ${alumno.id} + '/foto'}" alt="Imagen alumno"></td>
             </tr>
