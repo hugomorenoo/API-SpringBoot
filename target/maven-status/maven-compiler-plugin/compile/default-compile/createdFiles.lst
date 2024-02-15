@@ -1,0 +1,14 @@
+com\hugomoreno\API\model\Alumno.class
+com\hugomoreno\API\util\ImageUtils.class
+com\hugomoreno\API\ApiApplication.class
+com\hugomoreno\API\exceptions\ClaseException.class
+com\hugomoreno\API\exceptions\ClaseNotFoundException.class
+com\hugomoreno\API\repository\ClaseRepository.class
+com\hugomoreno\API\service\AlumnoService.class
+com\hugomoreno\API\model\Clase.class
+com\hugomoreno\API\service\ClaseService.class
+com\hugomoreno\API\exceptions\AlumnoNotFoundException.class
+com\hugomoreno\API\exceptions\AlumnoException.class
+com\hugomoreno\API\exceptions\AlumnoBadRequestException.class
+com\hugomoreno\API\controller\AlumnoController.class
+com\hugomoreno\API\repository\AlumnoRepository.class

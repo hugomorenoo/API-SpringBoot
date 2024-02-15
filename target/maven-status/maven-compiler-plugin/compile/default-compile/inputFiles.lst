@@ -1,0 +1,14 @@
+C:\Users\atrib\Downloads\API\API\src\main\java\com\hugomoreno\API\model\Alumno.java
+C:\Users\atrib\Downloads\API\API\src\main\java\com\hugomoreno\API\exceptions\AlumnoBadRequestException.java
+C:\Users\atrib\Downloads\API\API\src\main\java\com\hugomoreno\API\controller\AlumnoController.java
+C:\Users\atrib\Downloads\API\API\src\main\java\com\hugomoreno\API\exceptions\AlumnoException.java
+C:\Users\atrib\Downloads\API\API\src\main\java\com\hugomoreno\API\exceptions\ClaseException.java
+C:\Users\atrib\Downloads\API\API\src\main\java\com\hugomoreno\API\exceptions\ClaseNotFoundException.java
+C:\Users\atrib\Downloads\API\API\src\main\java\com\hugomoreno\API\service\AlumnoService.java
+C:\Users\atrib\Downloads\API\API\src\main\java\com\hugomoreno\API\repository\ClaseRepository.java
+C:\Users\atrib\Downloads\API\API\src\main\java\com\hugomoreno\API\exceptions\AlumnoNotFoundException.java
+C:\Users\atrib\Downloads\API\API\src\main\java\com\hugomoreno\API\model\Clase.java
+C:\Users\atrib\Downloads\API\API\src\main\java\com\hugomoreno\API\service\ClaseService.java
+C:\Users\atrib\Downloads\API\API\src\main\java\com\hugomoreno\API\ApiApplication.java
+C:\Users\atrib\Downloads\API\API\src\main\java\com\hugomoreno\API\util\ImageUtils.java
+C:\Users\atrib\Downloads\API\API\src\main\java\com\hugomoreno\API\repository\AlumnoRepository.java
